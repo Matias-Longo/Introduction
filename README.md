@@ -6,4 +6,4 @@
 - :floppy_disk: I have a strong interest in data analysis, visualization, and storytelling.
 - :mailbox: You can reach me at matias.javier.longo@gmail.com
 - :bookmark: Connect with me on [LinkedIn](https://www.linkedin.com/in/matias-longo-69b256163/)
-- :clipboard: Check out my [CV](https://drive.google.com/file/d/1vMDmUrTg6iQCrVZp8v5snzgEIMqcD2w_/view?usp=drive_link)
+- :clipboard: Check out my [CV](https://drive.google.com/file/d/1Qfox9qK_At-A8Ez48C55H1oPzt_K9V0w/view?usp=sharing)
