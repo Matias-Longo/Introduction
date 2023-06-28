@@ -5,4 +5,5 @@
 - :chart_with_upwards_trend: Background in Mechanical Engineering Design and Video Production.
 - :floppy_disk: I have a strong interest in data analysis, visualization, and storytelling.
 - :mailbox: You can reach me at matias.javier.longo@gmail.com
-- :bookmark: Connect with me on LinkedIn
+- :bookmark: Connect with me on [LinkedIn](https://www.linkedin.com/in/matias-longo-69b256163/)
+
